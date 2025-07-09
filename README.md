@@ -24,7 +24,7 @@
 ---
 
 ## 📫 How to reach me:
-📧 **Email:** [sandip.rajpurohit2000@gmail.com](mailto:sandip.rajpurohit2000@gmail.com)  
+📧 **Email:** [shishupalrajpurohit2000@gmail.com](mailto:shishupalrajpurohit2000@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/shishupal-rajpurohit-039290190](https://www.linkedin.com/in/shishupal-rajpurohit-039290190/)  
 📊 **GitHub Projects:** [github.com/ShishupalRajpurohit](https://github.com/ShishupalRajpurohit)  
 
@@ -44,7 +44,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shishupal-rajpurohit-039290190/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/shishupalrajpurohit)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/photoholic.200/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sandip.rajpurohit2000@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shishupalrajpurohit2000@gmail.com)
 
 ---
 
