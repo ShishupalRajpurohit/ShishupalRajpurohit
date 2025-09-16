@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShishupalRajpurohit" alt="ShishupalRajpurohit" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ShishupalRajpurohit&theme=github_dark" alt="ShishupalRajpurohit" />
   </a> 
 </p>
 
@@ -75,9 +75,20 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShishupalRajpurohit&show_icons=true&locale=en&layout=compact" alt="ShishupalRajpurohit" />
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=ShishupalRajpurohit&show_icons=true&locale=en&layout=compact&theme=github_dark" 
+       alt="ShishupalRajpurohit" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShishupalRajpurohit&show_icons=true&locale=en" alt="ShishupalRajpurohit" /></p>
+<p>
+  &nbsp;<img align="center" 
+             src="https://github-readme-stats.vercel.app/api?username=ShishupalRajpurohit&show_icons=true&locale=en&theme=github_dark" 
+             alt="ShishupalRajpurohit" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShishupalRajpurohit&" alt="ShishupalRajpurohit" /></p>
+<p>
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=ShishupalRajpurohit&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" 
+       alt="ShishupalRajpurohit" />
+</p>
+
