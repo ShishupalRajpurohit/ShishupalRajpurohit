@@ -71,6 +71,21 @@
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg" alt="langchain" width="40" height="40"/> 
   </a>
+  <a href="https://pydantic-docs.helpmanual.io/" target="_blank" rel="noreferrer">
+      <img src="https://avatars.githubusercontent.com/u/110818415?s=48&v=4" alt="Pydantic" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/25720743?s=48&v=4" alt="Hugging Face" width="40" height="40"/>
+  </a>
+  <a href="https://wandb.ai/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/26401354?s=48&v=4" alt="Weights & Biases" width="40" height="40"/>
+  </a>
+  <a href="https://stability.ai/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/100950301?s=48&v=4" alt="Stability AI" width="40" height="40"/>
+  </a>
+  <a href="https://gradio.app/" target="_blank" rel="noreferrer">
+      <img src="https://avatars.githubusercontent.com/u/51063788?s=48&v=4" alt="Gradio" width="40" height="40"/>
+  </a>
 </p>
 
 
