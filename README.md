@@ -64,7 +64,7 @@
 
 ### 🚀 Featured Projects
 
-- **[Renewal Intelligence Engine](https://github.com/ShishupalRajpurohit/renewal_intelligence_engine)** — AI-Powered Customer Renewal Risk Prediction. Combines structured customer health data with LLM-extracted signals from unstructured notes; Random Forest risk scoring + fuzzy entity matching; served via FastAPI + Streamlit. *(repo link pending)*
+- **[Renewal Intelligence Engine](https://github.com/ShishupalRajpurohit/renewal_intelligence_engine)** — AI-Powered Customer Renewal Risk Prediction. Combines structured customer health data with LLM-extracted signals from unstructured notes; Random Forest risk scoring + fuzzy entity matching; served via FastAPI + Streamlit.
 - **[BME_Bot](https://github.com/ShishupalRajpurohit/BME_Bot)** — Conversational biomedical AI chatbot using RAG, LangChain, Groq LLMs, FAISS, and HuggingFace embeddings for Q&A over equipment manuals. *[Live Demo](https://bmebot.streamlit.app/)*
 - **[Face_emotion_detector](https://github.com/ShishupalRajpurohit/Face_emotion_detector)** — Real-time facial emotion recognition with multi-provider AI fallback (Hugging Face, Groq, OpenRouter), FastAPI, Docker, WebSocket streaming. *[Live Demo](https://face-emotion-detector-fjuk.onrender.com/)*
 - **[Resume-Analyzer-Parser](https://github.com/ShishupalRajpurohit/Resume-Analyzer-Parser)** — NLP-based parser extracting structured data from PDF/DOCX/TXT resumes with entity recognition and skill matching.
